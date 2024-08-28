@@ -6,11 +6,11 @@ The Football Data repository provides tools and scripts for analyzing and visual
 
 ## Real Madrid Stats Analyzer
 
-The Real Madrid Stats Analyzer is a web-based application designed to provide real-time analysis and visualization of player statistics. It aims to offer valuable insights for enhancing decision-making processes related to player performance and team strategy.
+The Real Madrid Stats Analyzer is a trained model designed to provide analysis and visualization of player statistics. It aims to offer valuable insights for enhancing decision-making processes related to player performance and team strategy.
 
 ## Features
 
-- Real-time analysis and visualization of player statistics.
+- Analysis and visualization of player statistics.
 - Machine learning algorithms for data cleansing and predictive modeling.
 - Detailed statistical insights into player performance and team dynamics.
 
