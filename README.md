@@ -52,4 +52,4 @@ As a passionate supporter of Real Madrid, I believe in the importance of data-dr
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
 
 ## Acknowledgments
-- Thanks to all contributors and the football data community for their insights and datasets.
+Thanks to all contributors and the football data community for their insights and datasets.
