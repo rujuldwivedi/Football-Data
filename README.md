@@ -41,18 +41,7 @@ To get started with the Real Madrid Stats Analyzer and explore football data ana
 2. Run the Jupyter notebooks (`Data_Augmentation.ipynb` and `Model_Training.ipynb`) to train the model and perform predictions.
 
 ## Results
-The following images display the data relationships and prediction results:
 
-### Data Relationships
-| ![Output 1](output1.png) | ![Output 2](output2.png) | ![Output 6](output6.png) |
-|---------------------------|---------------------------|---------------------------|---------------------------|
-| ![Output 3](output3.png) | ![Output 4](output4.png) | ![Output 5](output5.png) |
-|---------------------------|---------------------------|---------------------------|---------------------------|
-| ![Output 7](output7.png) | ![Output 8](output8.png) | ![Output 9](output9.png) |
-|---------------------------|---------------------------|---------------------------|---------------------------|
-| ![Output 10](output10.png) | ![Output 11](output11.png) | ![Output 12](output12.png) |
-
-### Prediction Results
 ![Prediction Result](predictions.png)
 
 ## Personal Touch
