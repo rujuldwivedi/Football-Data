@@ -45,22 +45,22 @@ The following images display the data relationships and prediction results:
 
 ### Data Relationships
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  ![Output 1](output1.jpg)
-  ![Output 2](output2.jpg)
-  ![Output 3](output3.jpg)
-  ![Output 4](output4.jpg)
-  ![Output 5](output5.jpg)
-  ![Output 6](output6.jpg)
-  ![Output 7](output7.jpg)
-  ![Output 8](output8.jpg)
-  ![Output 9](output9.jpg)
-  ![Output 10](output10.jpg)
-  ![Output 11](output11.jpg)
-  ![Output 12](output12.jpg)
+  ![Output 1](output1.png)
+  ![Output 2](output2.png)
+  ![Output 3](output3.png)
+  ![Output 4](output4.png)
+  ![Output 5](output5.png)
+  ![Output 6](output6.png)
+  ![Output 7](output7.png)
+  ![Output 8](output8.png)
+  ![Output 9](output9.png)
+  ![Output 10](output10.png)
+  ![Output 11](output11.png)
+  ![Output 12](output12.png)
 </div>
 
 ### Prediction Results
-![Prediction Result](prediction.png)
+![Prediction Result](predictions.png)
 
 ## Personal Touch
 As a passionate supporter of Real Madrid, I believe in the importance of data-driven insights in football. My favorite player, Toni Kroos, has inspired countless fans with his exceptional skills and vision on the field, and stats like goals alone do not define his importance and thus we need more metrics like assists and pre-assists so I'm looking forward to seeing how emerging talents can fill the void left by legends like him.
