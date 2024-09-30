@@ -64,7 +64,7 @@ The following images display the data relationships and prediction results:
 
 ## Personal Touch
 As a passionate supporter of Real Madrid, I believe in the importance of data-driven insights in football. My favorite player, Toni Kroos, has inspired countless fans with his exceptional skills and vision on the field, and stats like goals alone do not define his importance and thus we need more metrics like assists and pre-assists. I'm looking forward to seeing how emerging talents can fill the void left by legends like him.
-**Edit**: He has now retired after playing an all-time season, and we'll miss him forever. Gracias Leyenda!
+### **Edit**: He has now retired after playing an all-time season, and we'll miss him forever. Gracias Leyenda!
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
