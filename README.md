@@ -21,9 +21,9 @@ The repository includes a machine learning model tailored for predicting player 
 - Matches Played (MP)
 - Minutes Played (Min)
 - Goals Scored (Gls)
-- Assists (Ast)
+- Assists (Ast), etc.
 
-The model employs a linear regression approach to make predictions about goals and assists for the current season, ranking them in descending order.
+The model employs a random forest regression approach to make predictions about goals and assists for the current season, ranking them in descending order.
 
 ## Usage
 
@@ -32,7 +32,7 @@ The model employs a linear regression approach to make predictions about goals a
 - **Training Script**: Use the `Data_Augmentation.ipynb` script to preprocess the data, train the model, and evaluate its performance.
 
 ### Model Prediction
-- **Prediction Script**: Utilize the `Model_Training.ipynb` script to make predictions on player performance after a specified number of matches. This script uses the `player_data_final.csv` file saved from the trained model to provide insights into future player statistics.
+- **Prediction Script**: Utilize the `Model_Training.ipynb` script to make predictions on player performance after a specified number of matches. This script also uses the `player_data.csv` file, but you can use the `player_data_final.csv` saved from the augmentation model to provide insights into future player statistics.
 
 ## Getting Started
 To get started with the Real Madrid Stats Analyzer and explore football data analysis:
