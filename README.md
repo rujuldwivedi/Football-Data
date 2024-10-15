@@ -1,7 +1,7 @@
 # Kroosify
 
 ## Overview
-This repository provides tools and scripts for analyzing and visualizing football statistics, focusing primarily on player performance. This repository includes machine learning models for predictive analysis, insightful data visualizations, and data preprocessing to enhance analytical capabilities.
+Welcome to the **Kroosify**! This repository provides tools and scripts for analyzing and visualizing football statistics, focusing primarily on player performance. This repository includes machine learning models for predictive analysis, insightful data visualizations, and data preprocessing to enhance analytical capabilities.
 
 ## Real Madrid Stats Analyzer
 The Real Madrid Stats Analyzer is a trained model designed to analyze and visualize player statistics. It offers valuable insights for improving decision-making processes related to player performance and team strategy. Whether you're a football analyst, a fan, or involved in team management, this repository serves as a comprehensive resource for understanding player contributions and optimizing performance.
