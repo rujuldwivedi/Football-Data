@@ -1,6 +1,6 @@
 # Kroosify
 
-![Project Banner](Files/banner.jpg)
+![Project Banner](Images/banner.jpg)
 
 ## Overview
 Welcome to the **Kroosify**! This repository provides tools and scripts for analyzing and visualizing football statistics, focusing primarily on player performance. This repository includes machine learning models for predictive analysis, insightful data visualizations, and data preprocessing to enhance analytical capabilities.
